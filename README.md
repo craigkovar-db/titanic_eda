@@ -1,3 +1,7 @@
+# SP Demonstartion
+
+To demonstrate using a Service Principal with repos in databricks I added a simple notebook and updated this readme
+
 # Exploratory Data Analysis with Databricks
 
 **Table of Contents:**<br>
